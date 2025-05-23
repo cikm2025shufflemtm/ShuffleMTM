@@ -111,6 +111,6 @@ In total, we constructed three classification benchmarks from representative bio
 
 ## 4. Classification Embedding Visualization
 
-ㅉe visualize the learned embeddings on the AD dataset using UMAP. For comparison, we include TimeSiam, which has shown the best classification performance among all MTM baselines. We also compute the average pairwise Euclidean distance between negative (healthy) and positive (Alzheimer's) classes in the UMAP space. As shown in Figure 1, ShuffleMTM yields more compact intra-class clusters and a larger inter-class distance than TimeSiam, indicating better class separability of the embedding space of ShuffleMTM.
+We visualize the learned embeddings on the AD dataset using UMAP. For comparison, we include TimeSiam, which has shown the best classification performance among all MTM baselines. We also compute the average pairwise Euclidean distance between negative (healthy) and positive (Alzheimer's) classes in the UMAP space. As shown in Figure 1, ShuffleMTM yields more compact intra-class clusters and a larger inter-class distance than TimeSiam, indicating better class separability of the embedding space of ShuffleMTM.
 
-![Result Plot](./figures/fig_UMAP.png)
+![Result Plot](./images/fig_UMAP.png)
