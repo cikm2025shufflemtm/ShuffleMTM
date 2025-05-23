@@ -86,7 +86,7 @@ We investigated self-supervised learning approaches designed to capture cross-ch
 |          |   336    |  **0.271**  | **0.293**  |  0.568  | 0.487  |
 |          |   720    |  **0.348**  | **0.343**  |  0.601  | 0.522  |
 
-Table 2)
+Table 2) Comparison between ShuffleMTM and BTSF in time series forecasting
 
 [2] BTSF, Yang and Hong, ICML 2022
 
